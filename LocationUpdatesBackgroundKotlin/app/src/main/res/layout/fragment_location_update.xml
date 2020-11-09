@@ -52,7 +52,7 @@
             android:layout_marginEnd="@dimen/margin_normal"
             android:layout_marginRight="@dimen/margin_normal"
             android:layout_marginBottom="@dimen/margin_normal"
-            android:text="@string/start_receiving_location"
+            android:text="@string/StartReceivingLocation"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />

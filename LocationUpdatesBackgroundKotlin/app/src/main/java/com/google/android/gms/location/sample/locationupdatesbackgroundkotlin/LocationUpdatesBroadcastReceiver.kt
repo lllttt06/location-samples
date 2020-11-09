@@ -60,6 +60,7 @@ class LocationUpdatesBroadcastReceiver : BroadcastReceiver() {
                     LocationRepository.getInstance(context, Executors.newSingleThreadExecutor())
                         .addLocations(locations)
                 }
+
             }
         }
     }

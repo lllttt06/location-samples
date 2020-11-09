@@ -15,7 +15,7 @@
  limitations under the License.
 -->
 <resources>
-    <string name="app_name">Location Updates from Background</string>
+    <string name="app_name">バックグラウンドでの位置情報の更新</string>
 
     <string name="fine_location_permission_rationale">The fine location permission is needed for core functionality.</string>
     <string name="fine_permission_denied_explanation">Fine location permission was denied, but is needed for core functionality.</string>
@@ -27,11 +27,11 @@
     <string name="settings">Settings</string>
     <string name="ok">OK</string>
 
-    <string name="fine_location_access_rationale_title_text">Welcome to the Background Location Sample!</string>
+    <string name="fine_location_access_rationale_title_text">バックグラウンドでの位置情報の更新</string>
 
-    <string name="fine_location_access_rationale_details_text">This sample allows you to receive location updates while using the app.
+    <string name="fine_location_access_rationale_details_text">このアプリを使用している間、バックグラウンドで位置情報を取得し続けます。
         \n\n
-        In order for this feature to work, please approve access to your location via the button below.
+        下のボタンを押してアプリを起動してください。
     </string>
 
     <string name="background_location_access_rationale_title_text">Improve location accuracy!</string>
@@ -44,11 +44,11 @@
     </string>
 
 
-    <string name="enable_fine_location_button_text">Approve Location Access</string>
+    <string name="enable_fine_location_button_text">位置情報の取得を許可</string>
     <string name="enable_background_location_button_text">Approve Background Location Access</string>
 
-    <string name="start_receiving_location">Start Receiving Location Updates</string>
-    <string name="stop_receiving_location">Stop Receiving Location Updates</string>
+    <string name="StartReceivingLocation">位置情報の取得を開始</string>
+    <string name="stop_receiving_location">位置情報の取得を終了</string>
 
     <string name="enhance_with_background_location_button_text">Enhance with Background Location</string>
 

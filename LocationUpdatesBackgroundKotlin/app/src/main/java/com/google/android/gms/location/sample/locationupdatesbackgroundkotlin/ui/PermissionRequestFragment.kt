@@ -42,6 +42,8 @@ private const val TAG = "PermissionRequestFrag"
  *
  * Allows users to grant the permissions as well.
  */
+
+// Fragment class を継承した PermissionRequestFragment class を定義
 class PermissionRequestFragment : Fragment() {
 
     // Type of permission to request (fine or background). Set by calling Activity.

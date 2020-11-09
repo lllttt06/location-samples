@@ -158,7 +158,7 @@ class LocationUpdateFragment : Fragment() {
             }
         } else {
             binding.startOrStopLocationUpdatesButton.apply {
-                text = getString(R.string.start_receiving_location)
+                text = getString(R.string.StartReceivingLocation)
                 setOnClickListener {
                     locationUpdateViewModel.startLocationUpdates()
                 }
